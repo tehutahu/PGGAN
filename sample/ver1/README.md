@@ -1,5 +1,5 @@
 # Kagiyama Hina Generator
-Generated from about 1600 face images.
+Generated from about 1600 face images.  
 Comparing 'ver0', source images are all resized 1024x1024, forcusing only around face
 ## Making Process
 ### 4 x 4 generated

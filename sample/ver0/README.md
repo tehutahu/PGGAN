@@ -1,5 +1,5 @@
 # Kagiyama Hina Generator
-Generated from about 3000 face or body images.
+Generated from about 3000 face or body images.  
 Some images are not suitable: noisy, not aranged size or not containing face...
 ## Making Process
 ### 4 x 4 generated
