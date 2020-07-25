@@ -1,4 +1,5 @@
 output_networks/*
+fav/*
 *.pyc
 setup.py
 venv_gan
