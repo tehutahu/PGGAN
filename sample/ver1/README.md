@@ -17,3 +17,6 @@ Comparing 'ver0', source images are all resized 1024x1024, forcusing only around
 ### 64 x 64
 ![64x64](https://github.com/tehutahu/PGGAN/blob/master/sample/ver1/hina_s4_i8000_avg.jpg "64x64")
 ![64x64](https://github.com/tehutahu/PGGAN/blob/master/sample/ver1/hina_s4_i96000_avg.jpg "64x64")
+### 128 x 128
+![128x128](https://github.com/tehutahu/PGGAN/blob/master/sample/ver1/hina_s5_i8000_avg.jpg "128x128")
+![128x128](https://github.com/tehutahu/PGGAN/blob/master/sample/ver1/hina_s5_i96000_avg.jpg "128x128")
